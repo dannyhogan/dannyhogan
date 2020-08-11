@@ -1,6 +1,6 @@
 ### Hi there, my name is Danny Hogan. 👋
 
-## I'm a Frontend Developer who loves building web applications!
+## I'm a frontend focused developer who loves building web applications!
 
 - 🔭 I’m currently working on a realtime [Valorant Strategy Tool][website] using SocketIO!
 - 🌱 I’m always trying to learn everything 🤣
