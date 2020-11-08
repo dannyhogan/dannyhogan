@@ -2,7 +2,7 @@
 
 ## I'm a frontend developer actively looking for my next role, lets get in touch!
 
-- 🔭 I’m currently working on a realtime [Valorant Strategy Tool][website] using SocketIO!
+- 🔭 I’m currently working on a full-stack web app called LinkLocker, coming soon!
 - 🌱 I’m always trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
