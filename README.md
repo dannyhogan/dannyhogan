@@ -1,6 +1,6 @@
 ### Hi there, my name is Danny Hogan. 👋
 
-## I'm a frontend developer who loves building real-time web applications.
+## I'm a frontend developer actively looking for my next role, lets get in touch!
 
 - 🔭 I’m currently working on a realtime [Valorant Strategy Tool][website] using SocketIO!
 - 🌱 I’m always trying to learn everything 🤣
@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love to code, snowboard, play video games, and basketball!
 
-#### Actively looking for work, lets get in touch! dannyhogancodes@gmail.com
+#### Email: dannyhogancodes@gmail.com
 
 <img align="left" alt="dannyhogan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dannyhogan&show_icons=true&theme=radical" />
 
