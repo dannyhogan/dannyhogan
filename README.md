@@ -1,6 +1,6 @@
 ### Hi there, my name is Danny Hogan. 👋
 
-## I'm a frontend developer actively looking for my next role, lets get in touch!
+## I'm a frontend developer who loves working with React!
 
 - 🔭 I’m currently working on a full-stack web app called LinkLocker, coming soon!
 - 🌱 I’m always trying to learn everything 🤣
