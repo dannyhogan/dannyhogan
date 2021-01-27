@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on a full-stack web app called LinkLocker, coming soon!
 - 🌱 I’m always trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun facts: I love to code, snowboard, play video games, and basketball!
 
 #### Email: dannyhogancodes@gmail.com
