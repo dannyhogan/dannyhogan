@@ -1,12 +1,5 @@
 ### Hi there, my name is Danny Hogan. 👋
 
-## I'm a frontend developer who loves working with React!
-
-- 🔭 I’m currently working on a full-stack web app called LinkLocker, coming soon!
-- 🌱 I’m always trying to learn everything 🤣
-- 👯 I’m looking to collaborate with other creators
-- ⚡ Fun facts: I love to code, snowboard, play video games, and basketball!
-
 #### Email: dannyhogancodes@gmail.com
 
 <img align="left" alt="dannyhogan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dannyhogan&show_icons=true&theme=radical" />
